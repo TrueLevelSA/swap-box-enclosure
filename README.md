@@ -7,9 +7,9 @@ Enclosed are some design documents and CAD files (STEP) for an enclosure for [sw
 Note: We are currently still prototyping and these designs are subject to change.  We will update this repo once happy with the physical build.
 
 
-![3D Render 1!](/images/image1.jpg "3D Render 1")
+![3D Render 1!](/images/image1.jpeg "3D Render 1")
 
-![3D Render 2!](/images/image2.jpg "3D Render 2")
+![3D Render 2!](/images/image2.jpeg "3D Render 2")
 
 
 Licence
